@@ -2,17 +2,25 @@
 - SAP & ERP project repository
 
 ## Member
-<br>
-
 <ul>
   <li>
-    정찬우 (https://github.com/JeongChanwoo/)</br>
-    김경래 (https://github.com/kyungrae/)</br>
-    김민성 (https://github.com/mskim94/)</br>
-    김채운 (https://github.com/3hwooni/)</br>
-    임성준 (https://github.com/emma58min/)</br>
+    정찬우 (https://github.com/JeongChanwoo/)
+  </li>
+  <li>
+    김경래 (https://github.com/kyungrae/)
+  </li>
+  <li>
+    김민성 (https://github.com/mskim94/)
+  </li>
+  <li>
+    김채운 (https://github.com/3hwooni/)
+  </li>
+  <li>
+    임성준 (https://github.com/emma58min/)
   </li>
 </ul>
+
+
 
 ## Member Cautions
 - Cautions
