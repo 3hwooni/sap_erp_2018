@@ -1,7 +1,7 @@
 # sap_erp_2018
 - SAP & ERP project repository
 
-## Member
+## Member list
 <ul>
   <li>
     정찬우 (https://github.com/JeongChanwoo/)
